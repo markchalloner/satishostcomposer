@@ -10,10 +10,10 @@
             "name": "markchalloner/satishostdemo",
             "version": "0.1.0",
             "dist": {
-                "type": "zip",
-                "url": "https://raw.githubusercontent.com/markchalloner/satishost/master/web//dist/markchalloner-satishostdemo-0.1.0.zip",
+                "type": "tar",
+                "url": "https://raw.githubusercontent.com/markchalloner/satishost/master/web//dist/markchalloner-satishostdemo-0.1.0.tar",
                 "reference": null,
-                "shasum": "170bdd7c77a2d86e6d3ee34baca5ea47fc4a9967"
+                "shasum": "aff0aed5a79d9e7c7aa6f253a4695464b493db16"
             },
             "type": "library",
             "transport-options": {

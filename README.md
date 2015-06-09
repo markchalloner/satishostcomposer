@@ -6,6 +6,7 @@ Accompanying repo to [Satis Host] for testing [Satis] hosting on [Github].
 
 ``` bash
 git clone git@github.com:markchalloner/satishostcomposer.git
+cd satishostcomposer
 composer install
 ```
 
