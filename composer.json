@@ -1,0 +1,19 @@
+{
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://raw.githubusercontent.com/markchalloner/satishost/master/web",
+            "options":  {
+                "http": {
+                    "header": [
+                        "API-TOKEN: YOUR-API-TOKEN"
+                    ]
+                }
+            }
+        }
+    ],
+    "require": {
+        "markchalloner/satishostdemo": "0.1.0"
+    },
+    "minimum-stability": "dev"
+}

@@ -1,0 +1,36 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "1ff921a504cdd4f0111042ceeff8720b",
+    "packages": [
+        {
+            "name": "markchalloner/satishostdemo",
+            "version": "0.1.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://raw.githubusercontent.com/markchalloner/satishost/master/web//dist/markchalloner-satishostdemo-0.1.0.zip",
+                "reference": null,
+                "shasum": "170bdd7c77a2d86e6d3ee34baca5ea47fc4a9967"
+            },
+            "type": "library",
+            "transport-options": {
+                "http": {
+                    "header": [
+                        "API-TOKEN: YOUR-API-TOKEN"
+                    ]
+                }
+            }
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
